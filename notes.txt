@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi (notes.txt changed in main)
 hellooooooo
 how are your
